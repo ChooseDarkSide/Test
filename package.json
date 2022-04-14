@@ -1,0 +1,16 @@
+{
+    "name": "Tests",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Run Tests",
+    "keywords": [
+        "run",
+        "api",
+        "tests"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "@actions/core": "^1.6.0",
+        "cli": "^1.0.1"
+    }
+}
